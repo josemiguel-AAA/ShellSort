@@ -1,1 +1,1 @@
-# ShellSort
+# shell-sort
